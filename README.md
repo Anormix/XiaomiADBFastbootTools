@@ -3,3 +3,6 @@ Reupload of Szaki's tools because they got deleted for some reason and I'm too l
 
 You will need to have Java installed. (Pretty sure it works with every Java version from 8 to the newest)
 If you are using Linux you may have to download adb and fastboot yourself. On Windows, it downloads them automatically.
+
+Sep 16 2023
+Added a launch sh script for all my penguin lovers & terminal warriors!
